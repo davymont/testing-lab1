@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d85662eb-ce83-4b79-9106-e8b9673e8acc" name="Changes" comment="First commit what up world">
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d85662eb-ce83-4b79-9106-e8b9673e8acc" name="Changes" comment="User class">
+      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675801063917</updated>
-      <workItem from="1675801065254" duration="1141000" />
+      <workItem from="1675801065254" duration="1404000" />
     </task>
     <task id="LOCAL-00001" summary="First commit what up world">
       <created>1675801220123</created>
@@ -64,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675801220123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="User class">
+      <created>1675802364615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675802364615</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit what up world" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit what up world" />
+    <MESSAGE value="User class" />
+    <option name="LAST_COMMIT_MESSAGE" value="User class" />
   </component>
 </project>
