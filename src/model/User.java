@@ -1,3 +1,5 @@
+package model;
+
 public class User {
 
     private String username; // email address
@@ -53,5 +55,16 @@ public class User {
 
     public void setMobile_number(String mobile_number) {
         this.mobile_number = mobile_number;
+    }
+
+    @Override
+    public String toString() {
+        return "User {" +
+                "username='" + username + '\'' +
+                ", password='" + password + '\'' +
+                ", first_name='" + first_name + '\'' +
+                ", last_name='" + last_name + '\'' +
+                ", mobile_number='" + mobile_number + '\'' +
+                '}';
     }
 }

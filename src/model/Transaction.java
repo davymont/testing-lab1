@@ -1,3 +1,5 @@
+package model;
+
 import java.util.Date;
 
 public class Transaction {
@@ -34,5 +36,14 @@ public class Transaction {
 
     public void setTransaction_date(Date transaction_date) {
         this.transaction_date = transaction_date;
+    }
+
+    @Override
+    public String toString() {
+        return "Transaction {" +
+                "account_number='" + account_number + '\'' +
+                ", transaction_amount=" + transaction_amount +
+                ", transaction_date=" + transaction_date +
+                '}';
     }
 }
