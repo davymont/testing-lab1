@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d85662eb-ce83-4b79-9106-e8b9673e8acc" name="Changes" comment="Transaction class">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/UserTest.java" afterDir="false" />
+    <list default="true" id="d85662eb-ce83-4b79-9106-e8b9673e8acc" name="Changes" comment="Created model &amp; test package and reorganised. UserTest class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/UserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675801063917</updated>
-      <workItem from="1675801065254" duration="1931000" />
+      <workItem from="1675801065254" duration="2632000" />
     </task>
     <task id="LOCAL-00001" summary="First commit what up world">
       <created>1675801220123</created>
@@ -111,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675802736416</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created model &amp; test package and reorganised. UserTest class.">
+      <created>1675803190097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675803190097</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +135,7 @@
     <MESSAGE value="User class" />
     <MESSAGE value="Account class" />
     <MESSAGE value="Transaction class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Transaction class" />
+    <MESSAGE value="Created model &amp; test package and reorganised. UserTest class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created model &amp; test package and reorganised. UserTest class." />
   </component>
 </project>
